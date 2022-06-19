@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" 
+	"http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="com.ssafy.happyhouse.model.mapper.UserInfoMapper">
+
+	<insert id="save" parameterType="UserInfoDto">
+		insert into userInfo values (#{id},#{password},#{name},#{email},#{tel})
+	</insert>
+	
+	<select id="findAll" resultType="UserInfoDto">
+		select * from userInfo
+	</select>
+	
+	<update id="updateUser" parameterType="UserInfoDto">
+		update userInfo set password=#{password}, email=#{email}, tel=#{tel} where id = #{id}
+	</update>
+	
+	<select id="searchById" parameterType="String" resultType="UserInfoDto">
+		select * from userInfo where id=#{id}
+	</select>
+	
+	<delete id="delete" parameterType="String">
+		delete from userInfo where id=#{id}
+	</delete>
+	
+	<!-- String 두개를 받아오는 방법을 몰라서 Map으로 변경함 -->
+	<!-- 이전에는 id로 검색을해서 받아온 pw와 입력한 pw를 비교해서 같다면 userinfo를 리턴하게 되어있었음 -->
+	<!-- 아이디 비번이 틀리다면 null값 받아오는건 똑같은듯?? -->
+	<select id="selectLogin" parameterType="map" resultType="MemberDto">
+		select *
+		from ssafy_member
+		where id=#{id} and password=#{password}
+	</select>
+	
+	
+	
+	<!-- <select id="idCheck" parameterType="string" resultType="int">
+		select count(userid)
+		from ssafy_member
+		where userid = #{userid}
+	</select> -->
+
+
+	
+	
+	
+	
+	
+</mapper>

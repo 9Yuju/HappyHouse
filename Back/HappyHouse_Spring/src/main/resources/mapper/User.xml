@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" 
+   "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper
+	namespace="com.ssafy.happyhouse.model.mapper.UserInfoMapper">
+
+	<select id="login" parameterType="map" resultType="UserInfoDto">
+		select *
+		from
+		userInfo
+		where id=#{id} and password=#{password}
+	</select>
+
+	<insert id="regist" parameterType="UserInfoDto">
+		insert into userInfo values
+		(#{id},#{password},#{name},#{email},#{tel},#{que},#{ans})
+	</insert>
+
+	<update id="update" parameterType="UserInfoDto">
+		update userInfo set
+		password=#{password}, email=#{email}, tel=#{tel}, name=#{name},que=#{que}, ans=#{ans} where
+		id = #{id}
+	</update>
+
+	<delete id="deleteI" parameterType="String">
+		delete from interestArea
+		where id= #{id}
+	</delete>
+	<delete id="deleteU" parameterType="String">
+		delete from userInfo where
+		id=#{id}
+	</delete>
+
+	<select id="searchById" parameterType="String"
+		resultType="UserInfoDto">
+		select * from userInfo where id=#{id}
+	</select>
+
+	<select id="searchAll" resultType="UserInfoDto">
+		select * from userInfo
+	</select>
+
+	<select id="exist" parameterType="map" resultType="UserInfoDto">
+		select *
+		from
+		userInfo
+		where id=#{id} and que = #{que} and ans=#{ans}
+	</select>
+
+</mapper>

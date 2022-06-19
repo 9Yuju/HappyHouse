@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" 
+   "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper
+	namespace="com.ssafy.happyhouse.model.mapper.InterestAreaMapper">
+
+	<insert id="registerArea" parameterType="InterestAreaDto">
+		insert into
+		happyhouse.interestarea
+		values (#{id},#{dongCode},#{juso})
+	</insert>
+
+	<select id="searchAllArea" resultType="InterestAreaDto">
+		select * from
+		happyhouse.interestarea
+		where id = #{id}
+	</select>
+
+	<select id="searchPopular" resultType="InterestAreaDto">
+		select count(dongCode) as
+		count, dongCode, juso
+		from happyhouse.interestarea
+		group by dongCode
+		order by count desc
+		limit 10;
+	</select>
+
+	<delete id="deleteArea" parameterType="map">
+		delete from
+		happyhouse.interestarea
+		where dongcode = #{dongCode} and id = #{id}
+	</delete>
+
+</mapper>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" 
+	"http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="com.ssafy.happyhouse.model.mapper.InterestAreaMapper">
+	
+	<insert id="registerArea" parameterType="InterestAreaDto">
+		insert into happyhouse.interestarea
+		values (#{id},#{dongCode})
+	</insert>
+	
+	<!-- String juso = rs.getString("sidoName")+ " " + rs.getString("gugunName")+ " " + rs.getString("dongName"); -->
+	<!-- 주소값을 어떻게 넣어야하는지 잘 모르겠다~ -->
+	<select id="searchAllArea" resultType="InterestAreaDto">
+		select * from happyhouse.interestarea 
+		natural join happyhouse.dongcode
+		where id = #{id}
+	</select>
+	
+	<delete id="deleteArea" parameterType="InterestAreaDto">
+		delete from happyhouse.interestarea
+		where dongcode = #{dongCode} and id = #{id}
+	</delete>
+	
+	
+</mapper>
