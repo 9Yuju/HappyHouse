@@ -124,13 +124,17 @@
 
 ## :orange_book: UI 설계서
 
-[UI 설계서 ](https://github.com/juyeoon/HappyHouse/blob/main/Document/UI_%EC%84%A4%EA%B3%84%EC%84%9C/UI%EC%84%A4%EA%B3%84%EC%84%9C.pdf)
+[UI 설계서](https://github.com/juyeoon/HappyHouse/blob/main/Document/UI_%EC%84%A4%EA%B3%84%EC%84%9C/UI%EC%84%A4%EA%B3%84%EC%84%9C.pdf)
 
 <div align=right><a href="https://github.com/juyeoon/HappyHouse#books-%EB%AA%A9%EC%B0%A8">목차로 이동</a></div>
 
 <!-- ----------------------------------------------------------------------------------------------------------- -->
 
 ## :ledger: 화면 캡쳐
+
+<!-- 수정 필요 -->
+[화면 캡쳐 폴더로 이동](https://github.com/juyeoon/HappyHouse/tree/main/Document/screenshot)
+
 <div align=right><a href="https://github.com/juyeoon/HappyHouse#books-%EB%AA%A9%EC%B0%A8">목차로 이동</a></div>
 
 
