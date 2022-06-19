@@ -1,31 +1,27 @@
-# HappyHouse
+# :house_with_garden: HappyHouse :house_with_garden:
 #### 아파트 실거래가 정보와 부동산 뉴스, 주변 상권 등의 정보를 제공하는 서비스
 
 <br/>
 
 ### :books: 목차  
 
-👉 [Contributors](#heavy_check_mark-contributors)   
-👉 [Tech Stack](#notebook_with_decorative_cover-tech-stack)   
-👉 [Usecase Diagram](#closed_book-usecase-diagram)   
-👉 [Class Diagram](#green_book-class-diagram)   
-👉 [ERD](#blue_book-erd)  
-👉 [UI 설계서](#orange_book-ui-설계서)  
-👉 [화면 캡쳐](#ledger-화면-캡쳐)  
+:heavy_check_mark: [Contributors](#heavy_check_mark-contributors)   
+:notebook_with_decorative_cover: [Tech Stack](#notebook_with_decorative_cover-tech-stack)   
+:closed_book: [Usecase Diagram](#closed_book-usecase-diagram)   
+:green_book: [Class Diagram](#green_book-class-diagram)   
+:blue_book: [ERD](#blue_book-erd)  
+:orange_book: [UI 설계서](#orange_book-ui-설계서)  
+:ledger: [화면 캡쳐](#ledger-화면-캡쳐)  
+&nbsp;&nbsp;&nbsp; :one: [메인페이지](#one-메인페이지)  
+&nbsp;&nbsp;&nbsp; :two: [아파트 실거래가 검색](#two-아파트-실거래가-검색)  
+&nbsp;&nbsp;&nbsp; :three: [회원가입 / 로그인 / 비밀번호 찾기 / 마이페이지](#three-회원가입--로그인--비밀번호-찾기--마이페이지)  
+&nbsp;&nbsp;&nbsp; :four: [관심지역](#four-관심지역)  
+&nbsp;&nbsp;&nbsp; :five: [공지사항](#five-공지사항)  
+&nbsp;&nbsp;&nbsp; :six: [뉴스](#six-뉴스)  
+&nbsp;&nbsp;&nbsp; :seven: [QnA 게시판](#seven-qna-게시판)  
+&nbsp;&nbsp;&nbsp; :eight: [관리자 전용 기능](#eight-관리자-전용-기능)  
   
 <br>
-
-<!-- 👇  
----
-  👉 [메인페이지](#one-메인페이지)  
-  👉 [동별실거래가 검색](#two-동별실거래가-검색)  
-  👉 [로그인/로그아웃](#three-로그인로그아웃)     
-  👉 [회원가입](#four-회원가입)  
-  👉 [회원정보](#five-회원정보)  
-  👉 [관심지역](#six-관심지역)  
-  👉 [공지사항](#seven-공지사항)
-
- -->
 
 <!-- ----------------------------------------------------------------------------------------------------------- -->
 
@@ -34,7 +30,7 @@
 | 팀원   | 역할                              | GitHub                              |
 | ------ | --------------------------------- | --------------------------------- |
 | 박주연 | Back-end, Front-end | [juyeoon](https://github.com/juyeoon)  |
-| 박유주 | Back-end, Front-end |    |
+| 박유주 | Back-end, Front-end | [9Yuju](https://github.com/9Yuju)   |
 
 <div align=right><a href="https://github.com/juyeoon/HappyHouse#books-%EB%AA%A9%EC%B0%A8">목차로 이동</a></div>
 
@@ -150,7 +146,7 @@
 
 <br/>
 
-### :seven: QnA게시판   
+### :seven: QnA 게시판   
 <img src="https://github.com/juyeoon/HappyHouse/blob/bd40ab4743414787f8f62524d95ec47870bcfa60/Document/screenshot/qna_list.PNG">
 <img src="https://github.com/juyeoon/HappyHouse/blob/bd40ab4743414787f8f62524d95ec47870bcfa60/Document/screenshot/qna_answer_admin.PNG">
 
