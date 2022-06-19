@@ -1,0 +1,49 @@
+.fontB {
+  font-family: "GimpoGothicBold00" !important;
+}
+.fontR {
+  font-family: "GimpoGothicRegular00" !important;
+}
+*{
+  font-family: "GimpoGothicRegular00";
+}
+table > thead.thead-light th
+{
+  line-height: 10px;
+  padding-top: 14px;
+  // color: aqua !important;
+}
+table > tbody td{
+  padding-top: 12px !important;
+  // color: aqua !important;
+}
+button div{
+  padding-top: 5px;
+  // font-weight: bold;
+  // color: brown;
+}
+.title{
+  font-family: "GimpoGothicBold00";
+
+}
+.card-title{
+  font-family: "GimpoGothicBold00";
+  padding-top: 10px;
+  margin: 0px;
+}
+.md-button-content{
+  line-height: 20px;
+  font-size: 15px;
+}
+.md-field::after,
+.md-field::before {
+  background-color: rgb(65, 132, 229) !important;
+}
+
+.md-field.md-focused > .md-icon {
+  color: rgb(65, 132, 229) !important;
+}
+
+.size-small{
+  font-size: 10px !important;
+}
