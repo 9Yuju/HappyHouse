@@ -135,9 +135,8 @@
 <!-- 수정 필요 -->
 [화면 캡쳐 폴더로 이동](https://github.com/juyeoon/HappyHouse/tree/main/Document/screenshot)
 
-[아파트 실거래가 조회](https://github.com/juyeoon/HappyHouse/blob/9de4fee10704c6031f9382d33d5ef254b5072724/Document/screenshot/apt_search.PNG)
 
-
+<img src="https://github.com/juyeoon/HappyHouse/blob/9de4fee10704c6031f9382d33d5ef254b5072724/Document/screenshot/apt_search.PNG">
 
 
 <div align=right><a href="https://github.com/juyeoon/HappyHouse#books-%EB%AA%A9%EC%B0%A8">목차로 이동</a></div>
