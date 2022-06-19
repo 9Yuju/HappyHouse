@@ -39,9 +39,39 @@
 
 
 ## :notebook_with_decorative_cover: Tech Stack
++ **Language**  
+
+    <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
+    
++ **Back-end**  
+
+    <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white">
+
++ **Front-end**  
+
+    <img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"> 
+    
++ **Database**  
+
+    <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+    
++ **Tools**  
+
+    <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
+    <img src="https://img.shields.io/badge/sts-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> 
+    <img src="https://img.shields.io/badge/VS code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white">
+
 <div align=right><a href="https://github.com/juyeoon/HappyHouse#books-%EB%AA%A9%EC%B0%A8">목차로 이동</a></div>
 
 ## :closed_book: Usecase Diagram
+<a href="https://github.com/juyeoon/HappyHouse/blob/main/Document/usecaseDiagram/usecase_1_all.png" target="_blank">
+  <img src="https://github.com/juyeoon/HappyHouse/blob/main/Document/usecaseDiagram/usecase_1_all.png">
+</a>
+
+
+
+
+
 <div align=right><a href="https://github.com/juyeoon/HappyHouse#books-%EB%AA%A9%EC%B0%A8">목차로 이동</a></div>
 
 ## :green_book: Class Diagram
