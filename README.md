@@ -137,30 +137,30 @@
 
 ### :one: 메인페이지  
 <img src="https://github.com/juyeoon/HappyHouse/blob/bd40ab4743414787f8f62524d95ec47870bcfa60/Document/screenshot/main.PNG">
----
-### :two: 동별실거래가 검색 
+---   
+### :two: 동별실거래가 검색   
 <img src="https://github.com/juyeoon/HappyHouse/blob/9de4fee10704c6031f9382d33d5ef254b5072724/Document/screenshot/apt_search.PNG">
----
-### :three: 회원가입/로그인/로그아웃/마이페이지
+---   
+### :three: 회원가입/로그인/로그아웃/마이페이지   
 <img src="https://github.com/juyeoon/HappyHouse/blob/bd40ab4743414787f8f62524d95ec47870bcfa60/Document/screenshot/signup.PNG">
 <img src="https://github.com/juyeoon/HappyHouse/blob/bd40ab4743414787f8f62524d95ec47870bcfa60/Document/screenshot/signin.PNG">
 <img src="https://github.com/juyeoon/HappyHouse/blob/bd40ab4743414787f8f62524d95ec47870bcfa60/Document/screenshot/find_pw.PNG">
 <img src="https://github.com/juyeoon/HappyHouse/blob/bd40ab4743414787f8f62524d95ec47870bcfa60/Document/screenshot/mypage.PNG">
----
-### :four: 관심지역
+---   
+### :four: 관심지역   
 <img src="https://github.com/juyeoon/HappyHouse/blob/bd40ab4743414787f8f62524d95ec47870bcfa60/Document/screenshot/inserestarea_list.PNG">
----
-### :five: 공지사항
+---   
+### :five: 공지사항   
 <img src="https://github.com/juyeoon/HappyHouse/blob/bd40ab4743414787f8f62524d95ec47870bcfa60/Document/screenshot/notice_list.PNG">
----
-### :six: 뉴스
+---   
+### :six: 뉴스   
 <img src="https://github.com/juyeoon/HappyHouse/blob/bd40ab4743414787f8f62524d95ec47870bcfa60/Document/screenshot/news_list.PNG">
----
-### :seven: QnA게시판
+---   
+### :seven: QnA게시판   
 <img src="https://github.com/juyeoon/HappyHouse/blob/bd40ab4743414787f8f62524d95ec47870bcfa60/Document/screenshot/qna_list.PNG">
 <img src="https://github.com/juyeoon/HappyHouse/blob/bd40ab4743414787f8f62524d95ec47870bcfa60/Document/screenshot/qna_answer_admin.PNG">
----
-### :eight: 관리자 전용
+---   
+### :eight: 관리자 전용   
 
 #### <관리자 로그인>
 <img src="https://github.com/juyeoon/HappyHouse/blob/bd40ab4743414787f8f62524d95ec47870bcfa60/Document/screenshot/main_admin_login.PNG">
@@ -171,7 +171,7 @@
 <img src="https://github.com/juyeoon/HappyHouse/blob/bd40ab4743414787f8f62524d95ec47870bcfa60/Document/screenshot/qna_answer_admin.PNG">
 <img src="https://github.com/juyeoon/HappyHouse/blob/bd40ab4743414787f8f62524d95ec47870bcfa60/Document/screenshot/qna_detail_admin.PNG">
 #### <관리자 로그인 시 유저 목록 확인>
-<img src="https://github.com/juyeoon/HappyHouse/blob/bd40ab4743414787f8f62524d95ec47870bcfa60/Document/screenshot/user_list.PNG">
+<img src="https://github.com/juyeoon/HappyHouse/blob/bd40ab4743414787f8f62524d95ec47870bcfa60/Document/screenshot/user_list.PNG">   
 
 
 <div align=right><a href="https://github.com/juyeoon/HappyHouse#books-%EB%AA%A9%EC%B0%A8">목차로 이동</a></div>
