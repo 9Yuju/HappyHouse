@@ -32,7 +32,7 @@
 | 박주연 | Back-end, Front-end | [juyeoon](https://github.com/juyeoon)  |
 | 박유주 | Back-end, Front-end | [9Yuju](https://github.com/9Yuju)   |
 
-<div align=right><a href="https://github.com/juyeoon/HappyHouse#books-%EB%AA%A9%EC%B0%A8">목차로 이동</a></div>
+<div align=right><a href="#books-목차">목차로 이동</a></div>
 
 <!-- ----------------------------------------------------------------------------------------------------------- -->
 
@@ -59,14 +59,14 @@
     <img src="https://img.shields.io/badge/sts-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> 
     <img src="https://img.shields.io/badge/VS code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white">
 
-<div align=right><a href="https://github.com/juyeoon/HappyHouse#books-%EB%AA%A9%EC%B0%A8">목차로 이동</a></div>
+<div align=right><a href="#books-목차">목차로 이동</a></div>
 
 <!-- ----------------------------------------------------------------------------------------------------------- -->
 
 ## :closed_book: Usecase Diagram
 <img src="https://github.com/juyeoon/HappyHouse/blob/main/Document/usecaseDiagram/usecase_1_all.png">
 
-<div align=right><a href="https://github.com/juyeoon/HappyHouse#books-%EB%AA%A9%EC%B0%A8">목차로 이동</a></div>
+<div align=right><a href="#books-목차">목차로 이동</a></div>
 
 <!-- ----------------------------------------------------------------------------------------------------------- -->
 
@@ -90,7 +90,7 @@
 + #### 1:1 문의 관련 Class Diagram
 <img src="https://github.com/juyeoon/HappyHouse/blob/main/Document/classDiagram/classDiagram_qna.PNG?raw=true">
 
-<div align=right><a href="https://github.com/juyeoon/HappyHouse#books-%EB%AA%A9%EC%B0%A8">목차로 이동</a></div>
+<div align=right><a href="#books-목차">목차로 이동</a></div>
 
 <!-- ----------------------------------------------------------------------------------------------------------- -->
 
@@ -98,7 +98,7 @@
 
 <img src="https://github.com/juyeoon/HappyHouse/blob/main/Document/ERD/happyhouse_ERD.PNG">
 
-<div align=right><a href="https://github.com/juyeoon/HappyHouse#books-%EB%AA%A9%EC%B0%A8">목차로 이동</a></div>
+<div align=right><a href="#books-목차">목차로 이동</a></div>
 
 <!-- ----------------------------------------------------------------------------------------------------------- -->
 
@@ -106,7 +106,7 @@
 
 [UI 설계서](https://github.com/juyeoon/HappyHouse/blob/main/Document/UI_%EC%84%A4%EA%B3%84%EC%84%9C/UI%EC%84%A4%EA%B3%84%EC%84%9C.pdf)
 
-<div align=right><a href="https://github.com/juyeoon/HappyHouse#books-%EB%AA%A9%EC%B0%A8">목차로 이동</a></div>
+<div align=right><a href="#books-목차">목차로 이동</a></div>
 
 <!-- ----------------------------------------------------------------------------------------------------------- -->
 
@@ -169,5 +169,5 @@
 <img src="https://github.com/juyeoon/HappyHouse/blob/bd40ab4743414787f8f62524d95ec47870bcfa60/Document/screenshot/user_list.PNG">   
 
 
-<div align=right><a href="https://github.com/juyeoon/HappyHouse#books-%EB%AA%A9%EC%B0%A8">목차로 이동</a></div>
+<div align=right><a href="#books-목차">목차로 이동</a></div>
 
